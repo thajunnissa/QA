@@ -1,0 +1,34 @@
+[
+    {
+        "label": "WOMEN",
+        "value": 234
+    },
+    {
+        "label": "MEN",
+        "value": 190
+    },
+    {
+        "label": "YOUTH",
+        "value": 181
+    },
+    {
+        "label": "KIDS",
+        "value": 184
+    },
+    {
+        "label": "TODDLER",
+        "value": 187
+    },
+    {
+        "label": "VINTAGE",
+        "value": 360
+    },
+    {
+        "label": "RETRO",
+        "value": 714
+    },
+    {
+        "label": "REWORK",
+        "value": 741
+    }
+]

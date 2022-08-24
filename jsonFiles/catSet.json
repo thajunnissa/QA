@@ -1,0 +1,418 @@
+[
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Belts",
+        "value": "3221"
+    },
+    {
+        "label": "Gloves",
+        "value": "3347"
+    },
+    {
+        "label": "Hats \/ Caps",
+        "value": "3222"
+    },
+    {
+        "label": "Shawl \/ Scarf",
+        "value": "3363"
+    },
+    {
+        "label": "Ties",
+        "value": "3220"
+    },
+    {
+        "label": "Hats",
+        "value": "8233"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Capri Pants",
+        "value": "7041"
+    },
+    {
+        "label": "Exercise Pants",
+        "value": "7040"
+    },
+    {
+        "label": "Long Sleeve T-Shirts",
+        "value": "7038"
+    },
+    {
+        "label": "Short Sleeve T-Shirts",
+        "value": "7037"
+    },
+    {
+        "label": "Sleeveless T-Shirts",
+        "value": "7036"
+    },
+    {
+        "label": "Sports Bra",
+        "value": "7035"
+    },
+    {
+        "label": "Sports Shorts",
+        "value": "7034"
+    },
+    {
+        "label": "Skirts",
+        "value": "8052"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Backpacks",
+        "value": "3224"
+    },
+    {
+        "label": "Casual Bags",
+        "value": "3223"
+    },
+    {
+        "label": "Handbags\/ Shoulder Bags",
+        "value": "3248"
+    },
+    {
+        "label": "Purse",
+        "value": "3245"
+    },
+    {
+        "label": "Sling Bags",
+        "value": "3247"
+    },
+    {
+        "label": "Sports Bags",
+        "value": "3246"
+    },
+    {
+        "label": "Bags",
+        "value": "8234"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Casual Long Sleeves",
+        "value": "6971"
+    },
+    {
+        "label": "Casual Short Sleeves",
+        "value": "6970"
+    },
+    {
+        "label": "Casual Sleeveless",
+        "value": "6969"
+    },
+    {
+        "label": "Crop Tops",
+        "value": "6968"
+    },
+    {
+        "label": "Denim Blouses & Tops",
+        "value": "6967"
+    },
+    {
+        "label": "Flannel Blouses",
+        "value": "6966"
+    },
+    {
+        "label": "Formal Long Sleeve Blouses",
+        "value": "6964"
+    },
+    {
+        "label": "Formal Short Sleeve Blouses",
+        "value": "6963"
+    },
+    {
+        "label": "Formal Sleeveless Blouses",
+        "value": "6962"
+    },
+    {
+        "label": "Off-Shoulders",
+        "value": "6961"
+    },
+    {
+        "label": "Blouses & Tops",
+        "value": "8162"
+    },
+    {
+        "label": "Long Sleeve Blouses & Tops",
+        "value": "8163"
+    },
+    {
+        "label": "Short Sleeve Blouses & Tops",
+        "value": "8164"
+    },
+    {
+        "label": "Sleeveless Blouses & Tops",
+        "value": "8165"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Denim Dresses",
+        "value": "3503"
+    },
+    {
+        "label": "Gowns",
+        "value": "3502"
+    },
+    {
+        "label": "Long Dresses",
+        "value": "3255"
+    },
+    {
+        "label": "Midi Dresses",
+        "value": "6975"
+    },
+    {
+        "label": "Mini Dresses",
+        "value": "6974"
+    },
+    {
+        "label": "Office Dresses",
+        "value": "3498"
+    },
+    {
+        "label": "Dresses",
+        "value": "8160"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Casual Jackets",
+        "value": "3213"
+    },
+    {
+        "label": "Denim Jackets",
+        "value": "3348"
+    },
+    {
+        "label": "Formal Jackets",
+        "value": "6998"
+    },
+    {
+        "label": "Puffer Jackets",
+        "value": "6994"
+    },
+    {
+        "label": "Sports Jackets",
+        "value": "3215"
+    },
+    {
+        "label": "Vests",
+        "value": "3212"
+    },
+    {
+        "label": "Winter Jackets",
+        "value": "3216"
+    },
+    {
+        "label": "Jackets",
+        "value": "8167"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Ripped Jeans",
+        "value": "6979"
+    },
+    {
+        "label": "Skinny Jeans",
+        "value": "6978"
+    },
+    {
+        "label": "Straight Jeans",
+        "value": "6977"
+    },
+    {
+        "label": "Capri Jeans",
+        "value": "8053"
+    },
+    {
+        "label": "Jeans",
+        "value": "8161"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Jerseys",
+        "value": "6980"
+    },
+    {
+        "label": "Basketball",
+        "value": "8186"
+    },
+    {
+        "label": "Football \/ Soccer",
+        "value": "8187"
+    },
+    {
+        "label": "Baseball",
+        "value": "8188"
+    },
+    {
+        "label": "NFL",
+        "value": "8189"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Denim Jumpers \/ Overall",
+        "value": "3361"
+    },
+    {
+        "label": "Jumpsuits",
+        "value": "6981"
+    },
+    {
+        "label": "Rompers",
+        "value": "3360"
+    },
+    {
+        "label": "Jumpsuits & Rompers",
+        "value": "8168"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Bra",
+        "value": "3600"
+    },
+    {
+        "label": "Nightwears",
+        "value": "3599"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Long Sleeve Shirts",
+        "value": "3233"
+    },
+    {
+        "label": "Short Sleeve Shirts",
+        "value": "3232"
+    },
+    {
+        "label": "Hawaii Shirts",
+        "value": "8055"
+    },
+    {
+        "label": "Shirts",
+        "value": "8170"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Boots",
+        "value": "3261"
+    },
+    {
+        "label": "Casual Shoes",
+        "value": "3237"
+    },
+    {
+        "label": "Flats \/ Sandals",
+        "value": "3262"
+    },
+    {
+        "label": "Formal Shoes",
+        "value": "3234"
+    },
+    {
+        "label": "Heels",
+        "value": "3263"
+    },
+    {
+        "label": "Running Shoes",
+        "value": "3236"
+    },
+    {
+        "label": "Sports Shoes",
+        "value": "3235"
+    },
+    {
+        "label": "Wedges",
+        "value": "3291"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Long Skirts",
+        "value": "3265"
+    },
+    {
+        "label": "Midi Skirts",
+        "value": "3270"
+    },
+    {
+        "label": "Mini Skirts",
+        "value": "3264"
+    },
+    {
+        "label": "Skirts",
+        "value": "8172"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Casual Sweaters",
+        "value": "3209"
+    },
+    {
+        "label": "Long Cardigans",
+        "value": "6986"
+    },
+    {
+        "label": "Short Cardigans",
+        "value": "6985"
+    },
+    {
+        "label": "Sweaters",
+        "value": "6992"
+    },
+    {
+        "label": "Kimono Cardigans",
+        "value": "8054"
+    },
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Cover-Ups",
+        "value": "6988"
+    },
+    {
+        "label": "Swimwears",
+        "value": "6987"
+    }
+]

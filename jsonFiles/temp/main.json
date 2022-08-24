@@ -1,0 +1,1888 @@
+{
+    "id": 2,
+    "parent_id": 1,
+    "name": "Default Category",
+    "is_active": true,
+    "position": 1,
+    "level": 1,
+    "product_count": 120827,
+    "children_data": [
+        {
+            "id": 234,
+            "parent_id": 2,
+            "name": "WOMEN",
+            "is_active": true,
+            "position": 1,
+            "level": 2,
+            "product_count": 51188,
+            "children_data": [
+                {
+                    "id": 394,
+                    "parent_id": 234,
+                    "name": "CLOTHING",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 50604,
+                    "children_data": [
+                        {
+                            "id": 611,
+                            "parent_id": 394,
+                            "name": "Active Wears",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 4664,
+                            "children_data": []
+                        },
+                        {
+                            "id": 248,
+                            "parent_id": 394,
+                            "name": "Blouses & Tops",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 8576,
+                            "children_data": []
+                        },
+                        {
+                            "id": 262,
+                            "parent_id": 394,
+                            "name": "Dresses",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 3845,
+                            "children_data": []
+                        },
+                        {
+                            "id": 609,
+                            "parent_id": 394,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 1557,
+                            "children_data": []
+                        },
+                        {
+                            "id": 239,
+                            "parent_id": 394,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 2829,
+                            "children_data": []
+                        },
+                        {
+                            "id": 610,
+                            "parent_id": 394,
+                            "name": "Jeans",
+                            "is_active": true,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 1890,
+                            "children_data": []
+                        },
+                        {
+                            "id": 268,
+                            "parent_id": 394,
+                            "name": "Jerseys",
+                            "is_active": true,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 149,
+                            "children_data": []
+                        },
+                        {
+                            "id": 526,
+                            "parent_id": 394,
+                            "name": "Jumpsuits & Rompers",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 2952,
+                            "children_data": []
+                        },
+                        {
+                            "id": 457,
+                            "parent_id": 394,
+                            "name": "Nightwears",
+                            "is_active": true,
+                            "position": 9,
+                            "level": 4,
+                            "product_count": 3086,
+                            "children_data": []
+                        },
+                        {
+                            "id": 272,
+                            "parent_id": 394,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 10,
+                            "level": 4,
+                            "product_count": 3930,
+                            "children_data": []
+                        },
+                        {
+                            "id": 287,
+                            "parent_id": 394,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 11,
+                            "level": 4,
+                            "product_count": 4177,
+                            "children_data": []
+                        },
+                        {
+                            "id": 284,
+                            "parent_id": 394,
+                            "name": "Skirts",
+                            "is_active": true,
+                            "position": 12,
+                            "level": 4,
+                            "product_count": 1480,
+                            "children_data": []
+                        },
+                        {
+                            "id": 235,
+                            "parent_id": 394,
+                            "name": "Sweaters",
+                            "is_active": true,
+                            "position": 13,
+                            "level": 4,
+                            "product_count": 2234,
+                            "children_data": []
+                        },
+                        {
+                            "id": 291,
+                            "parent_id": 394,
+                            "name": "Swimwears",
+                            "is_active": true,
+                            "position": 14,
+                            "level": 4,
+                            "product_count": 604,
+                            "children_data": []
+                        },
+                        {
+                            "id": 245,
+                            "parent_id": 394,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 16,
+                            "level": 4,
+                            "product_count": 8422,
+                            "children_data": []
+                        },
+                        {
+                            "id": 681,
+                            "parent_id": 394,
+                            "name": "Scarf",
+                            "is_active": true,
+                            "position": 17,
+                            "level": 4,
+                            "product_count": 145,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 251,
+                    "parent_id": 234,
+                    "name": "ACCESSORIES",
+                    "is_active": false,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 369,
+                    "children_data": [
+                        {
+                            "id": 449,
+                            "parent_id": 251,
+                            "name": "Hats & Caps",
+                            "is_active": false,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 204,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 279,
+                    "parent_id": 234,
+                    "name": "SHOES",
+                    "is_active": false,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 340,
+                    "children_data": [
+                        {
+                            "id": 529,
+                            "parent_id": 279,
+                            "name": "Casual Shoes",
+                            "is_active": false,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 106,
+                            "children_data": []
+                        },
+                        {
+                            "id": 517,
+                            "parent_id": 279,
+                            "name": "Sports & Running Shoes",
+                            "is_active": false,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 91,
+                            "children_data": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 190,
+            "parent_id": 2,
+            "name": "MEN",
+            "is_active": true,
+            "position": 2,
+            "level": 2,
+            "product_count": 42357,
+            "children_data": [
+                {
+                    "id": 393,
+                    "parent_id": 190,
+                    "name": "CLOTHING",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 41708,
+                    "children_data": [
+                        {
+                            "id": 612,
+                            "parent_id": 393,
+                            "name": "Active Wears",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 941,
+                            "children_data": []
+                        },
+                        {
+                            "id": 613,
+                            "parent_id": 393,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 2595,
+                            "children_data": []
+                        },
+                        {
+                            "id": 195,
+                            "parent_id": 393,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 1609,
+                            "children_data": []
+                        },
+                        {
+                            "id": 614,
+                            "parent_id": 393,
+                            "name": "Jeans",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 1737,
+                            "children_data": []
+                        },
+                        {
+                            "id": 212,
+                            "parent_id": 393,
+                            "name": "Jerseys",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 1124,
+                            "children_data": []
+                        },
+                        {
+                            "id": 216,
+                            "parent_id": 393,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 3209,
+                            "children_data": []
+                        },
+                        {
+                            "id": 221,
+                            "parent_id": 393,
+                            "name": "Shirts",
+                            "is_active": true,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 5509,
+                            "children_data": []
+                        },
+                        {
+                            "id": 228,
+                            "parent_id": 393,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 5513,
+                            "children_data": []
+                        },
+                        {
+                            "id": 660,
+                            "parent_id": 393,
+                            "name": "Sweaters",
+                            "is_active": true,
+                            "position": 9,
+                            "level": 4,
+                            "product_count": 681,
+                            "children_data": []
+                        },
+                        {
+                            "id": 201,
+                            "parent_id": 393,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 10,
+                            "level": 4,
+                            "product_count": 18079,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 205,
+                    "parent_id": 190,
+                    "name": "ACCESSORIES",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 476,
+                    "children_data": [
+                        {
+                            "id": 451,
+                            "parent_id": 205,
+                            "name": "Hats & Caps",
+                            "is_active": false,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 469,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 224,
+                    "parent_id": 190,
+                    "name": "SHOES",
+                    "is_active": false,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 161,
+                    "children_data": [
+                        {
+                            "id": 521,
+                            "parent_id": 224,
+                            "name": "Casual Shoes",
+                            "is_active": false,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 68,
+                            "children_data": []
+                        },
+                        {
+                            "id": 522,
+                            "parent_id": 224,
+                            "name": "Sports & Running Shoes",
+                            "is_active": false,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 83,
+                            "children_data": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 181,
+            "parent_id": 2,
+            "name": "YOUTH",
+            "is_active": true,
+            "position": 3,
+            "level": 2,
+            "product_count": 7208,
+            "children_data": [
+                {
+                    "id": 468,
+                    "parent_id": 181,
+                    "name": "BOYS",
+                    "is_active": true,
+                    "position": 6,
+                    "level": 3,
+                    "product_count": 4634,
+                    "children_data": [
+                        {
+                            "id": 618,
+                            "parent_id": 468,
+                            "name": "Active Wears",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 130,
+                            "children_data": []
+                        },
+                        {
+                            "id": 619,
+                            "parent_id": 468,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 211,
+                            "children_data": []
+                        },
+                        {
+                            "id": 459,
+                            "parent_id": 468,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 195,
+                            "children_data": []
+                        },
+                        {
+                            "id": 621,
+                            "parent_id": 468,
+                            "name": "Jeans",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 24,
+                            "children_data": []
+                        },
+                        {
+                            "id": 463,
+                            "parent_id": 468,
+                            "name": "Jerseys",
+                            "is_active": true,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 478,
+                            "children_data": []
+                        },
+                        {
+                            "id": 464,
+                            "parent_id": 468,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 398,
+                            "children_data": []
+                        },
+                        {
+                            "id": 465,
+                            "parent_id": 468,
+                            "name": "Shirts",
+                            "is_active": true,
+                            "position": 10,
+                            "level": 4,
+                            "product_count": 160,
+                            "children_data": []
+                        },
+                        {
+                            "id": 467,
+                            "parent_id": 468,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 12,
+                            "level": 4,
+                            "product_count": 833,
+                            "children_data": []
+                        },
+                        {
+                            "id": 460,
+                            "parent_id": 468,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 13,
+                            "level": 4,
+                            "product_count": 2010,
+                            "children_data": []
+                        },
+                        {
+                            "id": 662,
+                            "parent_id": 468,
+                            "name": "Sweaters",
+                            "is_active": true,
+                            "position": 14,
+                            "level": 4,
+                            "product_count": 34,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 469,
+                    "parent_id": 181,
+                    "name": "GIRLS",
+                    "is_active": true,
+                    "position": 7,
+                    "level": 3,
+                    "product_count": 2577,
+                    "children_data": [
+                        {
+                            "id": 615,
+                            "parent_id": 469,
+                            "name": "Active Wears",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 200,
+                            "children_data": []
+                        },
+                        {
+                            "id": 473,
+                            "parent_id": 469,
+                            "name": "Blouses & Tops",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 139,
+                            "children_data": []
+                        },
+                        {
+                            "id": 474,
+                            "parent_id": 469,
+                            "name": "Dresses",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 153,
+                            "children_data": []
+                        },
+                        {
+                            "id": 616,
+                            "parent_id": 469,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 159,
+                            "children_data": []
+                        },
+                        {
+                            "id": 471,
+                            "parent_id": 469,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 145,
+                            "children_data": []
+                        },
+                        {
+                            "id": 617,
+                            "parent_id": 469,
+                            "name": "Jeans",
+                            "is_active": true,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 41,
+                            "children_data": []
+                        },
+                        {
+                            "id": 525,
+                            "parent_id": 469,
+                            "name": "Jerseys",
+                            "is_active": true,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 12,
+                            "children_data": []
+                        },
+                        {
+                            "id": 508,
+                            "parent_id": 469,
+                            "name": "Jumpsuits & Rompers",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 280,
+                            "children_data": []
+                        },
+                        {
+                            "id": 475,
+                            "parent_id": 469,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 9,
+                            "level": 4,
+                            "product_count": 258,
+                            "children_data": []
+                        },
+                        {
+                            "id": 477,
+                            "parent_id": 469,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 10,
+                            "level": 4,
+                            "product_count": 175,
+                            "children_data": []
+                        },
+                        {
+                            "id": 478,
+                            "parent_id": 469,
+                            "name": "Skirts",
+                            "is_active": true,
+                            "position": 11,
+                            "level": 4,
+                            "product_count": 75,
+                            "children_data": []
+                        },
+                        {
+                            "id": 470,
+                            "parent_id": 469,
+                            "name": "Sweaters",
+                            "is_active": true,
+                            "position": 12,
+                            "level": 4,
+                            "product_count": 70,
+                            "children_data": []
+                        },
+                        {
+                            "id": 479,
+                            "parent_id": 469,
+                            "name": "Swimwears",
+                            "is_active": true,
+                            "position": 13,
+                            "level": 4,
+                            "product_count": 31,
+                            "children_data": []
+                        },
+                        {
+                            "id": 472,
+                            "parent_id": 469,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 14,
+                            "level": 4,
+                            "product_count": 785,
+                            "children_data": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 184,
+            "parent_id": 2,
+            "name": "KIDS",
+            "is_active": false,
+            "position": 4,
+            "level": 2,
+            "product_count": 3368,
+            "children_data": [
+                {
+                    "id": 483,
+                    "parent_id": 184,
+                    "name": "BOYS",
+                    "is_active": true,
+                    "position": 4,
+                    "level": 3,
+                    "product_count": 1564,
+                    "children_data": [
+                        {
+                            "id": 485,
+                            "parent_id": 483,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 42,
+                            "children_data": []
+                        },
+                        {
+                            "id": 486,
+                            "parent_id": 483,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 76,
+                            "children_data": []
+                        },
+                        {
+                            "id": 655,
+                            "parent_id": 483,
+                            "name": "Jeans",
+                            "is_active": false,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 29,
+                            "children_data": []
+                        },
+                        {
+                            "id": 490,
+                            "parent_id": 483,
+                            "name": "Jerseys",
+                            "is_active": false,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 101,
+                            "children_data": []
+                        },
+                        {
+                            "id": 491,
+                            "parent_id": 483,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 127,
+                            "children_data": []
+                        },
+                        {
+                            "id": 492,
+                            "parent_id": 483,
+                            "name": "Shirts",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 177,
+                            "children_data": []
+                        },
+                        {
+                            "id": 494,
+                            "parent_id": 483,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 10,
+                            "level": 4,
+                            "product_count": 278,
+                            "children_data": []
+                        },
+                        {
+                            "id": 487,
+                            "parent_id": 483,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 12,
+                            "level": 4,
+                            "product_count": 620,
+                            "children_data": []
+                        },
+                        {
+                            "id": 663,
+                            "parent_id": 483,
+                            "name": "Sweaters",
+                            "is_active": true,
+                            "position": 13,
+                            "level": 4,
+                            "product_count": 10,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 484,
+                    "parent_id": 184,
+                    "name": "GIRLS",
+                    "is_active": true,
+                    "position": 5,
+                    "level": 3,
+                    "product_count": 1813,
+                    "children_data": [
+                        {
+                            "id": 499,
+                            "parent_id": 484,
+                            "name": "Blouses & Tops",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 88,
+                            "children_data": []
+                        },
+                        {
+                            "id": 500,
+                            "parent_id": 484,
+                            "name": "Dresses",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 731,
+                            "children_data": []
+                        },
+                        {
+                            "id": 497,
+                            "parent_id": 484,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 58,
+                            "children_data": []
+                        },
+                        {
+                            "id": 654,
+                            "parent_id": 484,
+                            "name": "Jeans",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 38,
+                            "children_data": []
+                        },
+                        {
+                            "id": 509,
+                            "parent_id": 484,
+                            "name": "Jumpsuits & Rompers",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 109,
+                            "children_data": []
+                        },
+                        {
+                            "id": 502,
+                            "parent_id": 484,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 221,
+                            "children_data": []
+                        },
+                        {
+                            "id": 504,
+                            "parent_id": 484,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 73,
+                            "children_data": []
+                        },
+                        {
+                            "id": 507,
+                            "parent_id": 484,
+                            "name": "Skirts",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 84,
+                            "children_data": []
+                        },
+                        {
+                            "id": 496,
+                            "parent_id": 484,
+                            "name": "Sweaters",
+                            "is_active": false,
+                            "position": 9,
+                            "level": 4,
+                            "product_count": 36,
+                            "children_data": []
+                        },
+                        {
+                            "id": 505,
+                            "parent_id": 484,
+                            "name": "Swimwears",
+                            "is_active": false,
+                            "position": 12,
+                            "level": 4,
+                            "product_count": 14,
+                            "children_data": []
+                        },
+                        {
+                            "id": 498,
+                            "parent_id": 484,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 13,
+                            "level": 4,
+                            "product_count": 295,
+                            "children_data": []
+                        },
+                        {
+                            "id": 664,
+                            "parent_id": 484,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 14,
+                            "level": 4,
+                            "product_count": 9,
+                            "children_data": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 187,
+            "parent_id": 2,
+            "name": "TODDLER",
+            "is_active": false,
+            "position": 5,
+            "level": 2,
+            "product_count": 935,
+            "children_data": [
+                {
+                    "id": 416,
+                    "parent_id": 187,
+                    "name": "CLOTHING",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 905,
+                    "children_data": [
+                        {
+                            "id": 188,
+                            "parent_id": 416,
+                            "name": "Girls",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 391,
+                            "children_data": []
+                        },
+                        {
+                            "id": 189,
+                            "parent_id": 416,
+                            "name": "Boys",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 514,
+                            "children_data": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 360,
+            "parent_id": 2,
+            "name": "VINTAGE",
+            "is_active": true,
+            "position": 6,
+            "level": 2,
+            "product_count": 15941,
+            "children_data": [
+                {
+                    "id": 420,
+                    "parent_id": 360,
+                    "name": "WOMEN",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 914,
+                    "children_data": [
+                        {
+                            "id": 370,
+                            "parent_id": 420,
+                            "name": "Accessories",
+                            "is_active": false,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 363,
+                            "parent_id": 420,
+                            "name": "Blouses & Tops",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 168,
+                            "children_data": []
+                        },
+                        {
+                            "id": 364,
+                            "parent_id": 420,
+                            "name": "Dresses",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 138,
+                            "children_data": []
+                        },
+                        {
+                            "id": 361,
+                            "parent_id": 420,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 214,
+                            "children_data": []
+                        },
+                        {
+                            "id": 365,
+                            "parent_id": 420,
+                            "name": "Jerseys",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 14,
+                            "children_data": []
+                        },
+                        {
+                            "id": 366,
+                            "parent_id": 420,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 130,
+                            "children_data": []
+                        },
+                        {
+                            "id": 367,
+                            "parent_id": 420,
+                            "name": "Shorts",
+                            "is_active": false,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 9,
+                            "children_data": []
+                        },
+                        {
+                            "id": 368,
+                            "parent_id": 420,
+                            "name": "Skirts",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 15,
+                            "children_data": []
+                        },
+                        {
+                            "id": 658,
+                            "parent_id": 420,
+                            "name": "Sweaters",
+                            "is_active": true,
+                            "position": 10,
+                            "level": 4,
+                            "product_count": 61,
+                            "children_data": []
+                        },
+                        {
+                            "id": 362,
+                            "parent_id": 420,
+                            "name": "T-Shirts",
+                            "is_active": false,
+                            "position": 11,
+                            "level": 4,
+                            "product_count": 20,
+                            "children_data": []
+                        },
+                        {
+                            "id": 665,
+                            "parent_id": 420,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 12,
+                            "level": 4,
+                            "product_count": 119,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 421,
+                    "parent_id": 360,
+                    "name": "MEN",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 14706,
+                    "children_data": [
+                        {
+                            "id": 424,
+                            "parent_id": 421,
+                            "name": "Accessories",
+                            "is_active": false,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 3,
+                            "children_data": []
+                        },
+                        {
+                            "id": 422,
+                            "parent_id": 421,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 1002,
+                            "children_data": []
+                        },
+                        {
+                            "id": 425,
+                            "parent_id": 421,
+                            "name": "Jerseys",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 594,
+                            "children_data": []
+                        },
+                        {
+                            "id": 426,
+                            "parent_id": 421,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 451,
+                            "children_data": []
+                        },
+                        {
+                            "id": 427,
+                            "parent_id": 421,
+                            "name": "Shirts",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 428,
+                            "children_data": []
+                        },
+                        {
+                            "id": 428,
+                            "parent_id": 421,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 108,
+                            "children_data": []
+                        },
+                        {
+                            "id": 555,
+                            "parent_id": 421,
+                            "name": "Sweaters",
+                            "is_active": true,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 288,
+                            "children_data": []
+                        },
+                        {
+                            "id": 423,
+                            "parent_id": 421,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 10375,
+                            "children_data": []
+                        },
+                        {
+                            "id": 666,
+                            "parent_id": 421,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 9,
+                            "level": 4,
+                            "product_count": 1443,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 667,
+                    "parent_id": 360,
+                    "name": "YOUTH",
+                    "is_active": true,
+                    "position": 3,
+                    "level": 3,
+                    "product_count": 310,
+                    "children_data": [
+                        {
+                            "id": 668,
+                            "parent_id": 667,
+                            "name": "Accessories",
+                            "is_active": false,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 669,
+                            "parent_id": 667,
+                            "name": "Blouses & Tops",
+                            "is_active": false,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 670,
+                            "parent_id": 667,
+                            "name": "Dresses",
+                            "is_active": false,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 671,
+                            "parent_id": 667,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 39,
+                            "children_data": []
+                        },
+                        {
+                            "id": 672,
+                            "parent_id": 667,
+                            "name": "Jerseys",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 47,
+                            "children_data": []
+                        },
+                        {
+                            "id": 673,
+                            "parent_id": 667,
+                            "name": "Pants",
+                            "is_active": false,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 17,
+                            "children_data": []
+                        },
+                        {
+                            "id": 674,
+                            "parent_id": 667,
+                            "name": "Shorts",
+                            "is_active": false,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 11,
+                            "children_data": []
+                        },
+                        {
+                            "id": 675,
+                            "parent_id": 667,
+                            "name": "Skirts",
+                            "is_active": false,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 676,
+                            "parent_id": 667,
+                            "name": "Sweaters",
+                            "is_active": false,
+                            "position": 9,
+                            "level": 4,
+                            "product_count": 1,
+                            "children_data": []
+                        },
+                        {
+                            "id": 677,
+                            "parent_id": 667,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": false,
+                            "position": 10,
+                            "level": 4,
+                            "product_count": 36,
+                            "children_data": []
+                        },
+                        {
+                            "id": 679,
+                            "parent_id": 667,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 11,
+                            "level": 4,
+                            "product_count": 152,
+                            "children_data": []
+                        },
+                        {
+                            "id": 678,
+                            "parent_id": 667,
+                            "name": "Shirts",
+                            "is_active": false,
+                            "position": 12,
+                            "level": 4,
+                            "product_count": 7,
+                            "children_data": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 714,
+            "parent_id": 2,
+            "name": "RETRO",
+            "is_active": true,
+            "position": 7,
+            "level": 2,
+            "product_count": 6722,
+            "children_data": [
+                {
+                    "id": 715,
+                    "parent_id": 714,
+                    "name": "WOMEN",
+                    "is_active": true,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 2125,
+                    "children_data": [
+                        {
+                            "id": 718,
+                            "parent_id": 715,
+                            "name": "Blouses & Tops",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 250,
+                            "children_data": []
+                        },
+                        {
+                            "id": 719,
+                            "parent_id": 715,
+                            "name": "Dresses",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 857,
+                            "children_data": []
+                        },
+                        {
+                            "id": 720,
+                            "parent_id": 715,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 128,
+                            "children_data": []
+                        },
+                        {
+                            "id": 721,
+                            "parent_id": 715,
+                            "name": "Jerseys",
+                            "is_active": false,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 2,
+                            "children_data": []
+                        },
+                        {
+                            "id": 722,
+                            "parent_id": 715,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 232,
+                            "children_data": []
+                        },
+                        {
+                            "id": 723,
+                            "parent_id": 715,
+                            "name": "Skirts",
+                            "is_active": false,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 6,
+                            "children_data": []
+                        },
+                        {
+                            "id": 724,
+                            "parent_id": 715,
+                            "name": "Sweaters",
+                            "is_active": false,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 8,
+                            "children_data": []
+                        },
+                        {
+                            "id": 725,
+                            "parent_id": 715,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 58,
+                            "children_data": []
+                        },
+                        {
+                            "id": 739,
+                            "parent_id": 715,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 9,
+                            "level": 4,
+                            "product_count": 268,
+                            "children_data": []
+                        },
+                        {
+                            "id": 740,
+                            "parent_id": 715,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 10,
+                            "level": 4,
+                            "product_count": 316,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 716,
+                    "parent_id": 714,
+                    "name": "MEN",
+                    "is_active": true,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 4591,
+                    "children_data": [
+                        {
+                            "id": 726,
+                            "parent_id": 716,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 184,
+                            "children_data": []
+                        },
+                        {
+                            "id": 727,
+                            "parent_id": 716,
+                            "name": "Jerseys",
+                            "is_active": false,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 16,
+                            "children_data": []
+                        },
+                        {
+                            "id": 728,
+                            "parent_id": 716,
+                            "name": "Pants",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 530,
+                            "children_data": []
+                        },
+                        {
+                            "id": 729,
+                            "parent_id": 716,
+                            "name": "Shirts",
+                            "is_active": true,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 338,
+                            "children_data": []
+                        },
+                        {
+                            "id": 730,
+                            "parent_id": 716,
+                            "name": "Shorts",
+                            "is_active": true,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 243,
+                            "children_data": []
+                        },
+                        {
+                            "id": 731,
+                            "parent_id": 716,
+                            "name": "Sweaters",
+                            "is_active": true,
+                            "position": 6,
+                            "level": 4,
+                            "product_count": 36,
+                            "children_data": []
+                        },
+                        {
+                            "id": 732,
+                            "parent_id": 716,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 7,
+                            "level": 4,
+                            "product_count": 2807,
+                            "children_data": []
+                        },
+                        {
+                            "id": 733,
+                            "parent_id": 716,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": true,
+                            "position": 8,
+                            "level": 4,
+                            "product_count": 437,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 717,
+                    "parent_id": 714,
+                    "name": "YOUTH",
+                    "is_active": false,
+                    "position": 3,
+                    "level": 3,
+                    "product_count": 5,
+                    "children_data": [
+                        {
+                            "id": 734,
+                            "parent_id": 717,
+                            "name": "Jackets",
+                            "is_active": true,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 735,
+                            "parent_id": 717,
+                            "name": "Jerseys",
+                            "is_active": true,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 736,
+                            "parent_id": 717,
+                            "name": "T-Shirts",
+                            "is_active": true,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 3,
+                            "children_data": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 741,
+            "parent_id": 2,
+            "name": "REWORK",
+            "is_active": true,
+            "position": 8,
+            "level": 2,
+            "product_count": 74,
+            "children_data": [
+                {
+                    "id": 750,
+                    "parent_id": 741,
+                    "name": "CLOTHING",
+                    "is_active": false,
+                    "position": 1,
+                    "level": 3,
+                    "product_count": 13,
+                    "children_data": [
+                        {
+                            "id": 765,
+                            "parent_id": 750,
+                            "name": "Blouses & Tops",
+                            "is_active": false,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 766,
+                            "parent_id": 750,
+                            "name": "Hoodies & Sweatshirts",
+                            "is_active": false,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 767,
+                            "parent_id": 750,
+                            "name": "Jeans",
+                            "is_active": false,
+                            "position": 3,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 768,
+                            "parent_id": 750,
+                            "name": "Pants",
+                            "is_active": false,
+                            "position": 4,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 769,
+                            "parent_id": 750,
+                            "name": "Shorts",
+                            "is_active": false,
+                            "position": 5,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        }
+                    ]
+                },
+                {
+                    "id": 751,
+                    "parent_id": 741,
+                    "name": "ACCESSORIES",
+                    "is_active": false,
+                    "position": 2,
+                    "level": 3,
+                    "product_count": 2,
+                    "children_data": [
+                        {
+                            "id": 752,
+                            "parent_id": 751,
+                            "name": "Hats",
+                            "is_active": false,
+                            "position": 1,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        },
+                        {
+                            "id": 753,
+                            "parent_id": 751,
+                            "name": "Bags",
+                            "is_active": false,
+                            "position": 2,
+                            "level": 4,
+                            "product_count": 0,
+                            "children_data": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 553,
+            "parent_id": 2,
+            "name": "CLEARANCE",
+            "is_active": true,
+            "position": 11,
+            "level": 2,
+            "product_count": 12181,
+            "children_data": []
+        },
+        {
+            "id": 657,
+            "parent_id": 2,
+            "name": "FEATURED PRODUCTS",
+            "is_active": true,
+            "position": 13,
+            "level": 2,
+            "product_count": 0,
+            "children_data": []
+        },
+        {
+            "id": 661,
+            "parent_id": 2,
+            "name": "FEATURED PRODUCTS2",
+            "is_active": true,
+            "position": 14,
+            "level": 2,
+            "product_count": 0,
+            "children_data": []
+        },
+        {
+            "id": 680,
+            "parent_id": 2,
+            "name": "Mystery Bag",
+            "is_active": true,
+            "position": 15,
+            "level": 2,
+            "product_count": 13,
+            "children_data": []
+        },
+        {
+            "id": 682,
+            "parent_id": 2,
+            "name": "GIFT CARDS",
+            "is_active": true,
+            "position": 16,
+            "level": 2,
+            "product_count": 15,
+            "children_data": []
+        },
+        {
+            "id": 686,
+            "parent_id": 2,
+            "name": "Deals",
+            "is_active": true,
+            "position": 17,
+            "level": 2,
+            "product_count": 0,
+            "children_data": []
+        },
+        {
+            "id": 687,
+            "parent_id": 2,
+            "name": "Featured Products",
+            "is_active": true,
+            "position": 18,
+            "level": 2,
+            "product_count": 0,
+            "children_data": []
+        },
+        {
+            "id": 710,
+            "parent_id": 2,
+            "name": "Featured Men T-Shirts",
+            "is_active": true,
+            "position": 19,
+            "level": 2,
+            "product_count": 2111,
+            "children_data": []
+        },
+        {
+            "id": 711,
+            "parent_id": 2,
+            "name": "Featured Womens Harley Collections",
+            "is_active": true,
+            "position": 20,
+            "level": 2,
+            "product_count": 23,
+            "children_data": []
+        },
+        {
+            "id": 712,
+            "parent_id": 2,
+            "name": "Featured Mens Harley Collections",
+            "is_active": true,
+            "position": 21,
+            "level": 2,
+            "product_count": 160,
+            "children_data": []
+        },
+        {
+            "id": 713,
+            "parent_id": 2,
+            "name": "Featured Vintage Harley Collections",
+            "is_active": true,
+            "position": 22,
+            "level": 2,
+            "product_count": 228,
+            "children_data": []
+        },
+        {
+            "id": 743,
+            "parent_id": 2,
+            "name": "Red",
+            "is_active": true,
+            "position": 23,
+            "level": 2,
+            "product_count": 1158,
+            "children_data": []
+        },
+        {
+            "id": 746,
+            "parent_id": 2,
+            "name": "dailydrops",
+            "is_active": true,
+            "position": 26,
+            "level": 2,
+            "product_count": 100,
+            "children_data": []
+        },
+        {
+            "id": 774,
+            "parent_id": 2,
+            "name": "STREETWEAR DROP",
+            "is_active": true,
+            "position": 43,
+            "level": 2,
+            "product_count": 192,
+            "children_data": []
+        },
+        {
+            "id": 777,
+            "parent_id": 2,
+            "name": "NEW ARRIVALS",
+            "is_active": true,
+            "position": 46,
+            "level": 2,
+            "product_count": 13,
+            "children_data": []
+        },
+        {
+            "id": 778,
+            "parent_id": 2,
+            "name": "THRIFT ESSENTIALS",
+            "is_active": true,
+            "position": 47,
+            "level": 2,
+            "product_count": 144,
+            "children_data": []
+        },
+        {
+            "id": 779,
+            "parent_id": 2,
+            "name": "Featured Items Mens T-Shirts",
+            "is_active": true,
+            "position": 48,
+            "level": 2,
+            "product_count": 183,
+            "children_data": []
+        },
+        {
+            "id": 780,
+            "parent_id": 2,
+            "name": "Featured Items Mens Shirt",
+            "is_active": true,
+            "position": 49,
+            "level": 2,
+            "product_count": 171,
+            "children_data": []
+        },
+        {
+            "id": 781,
+            "parent_id": 2,
+            "name": "SPECIAL VINTAGE SALE",
+            "is_active": true,
+            "position": 50,
+            "level": 2,
+            "product_count": 605,
+            "children_data": []
+        }
+    ]
+}

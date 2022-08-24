@@ -1,0 +1,233 @@
+{
+    "product": {
+        "sku": "A0121503",
+        "name": "Grand Canyon National Park Single Stitch VNTG Stripe T-Shirt Made In USA",
+        "attribute_set_id": "11",
+        "price": 75,
+        "visibility": 4,
+        "type_id": "simple",
+        "weight": 0.266,
+        "extension_attributes": {
+            "website_ids": [
+                1
+            ],
+            "stock_item": {
+                "qty": 1,
+                "is_in_stock": true
+            }
+        },
+        "custom_attributes": [
+            {
+                "attribute_code": "length",
+                "value": "84"
+            },
+            {
+                "attribute_code": "gift_message_available",
+                "value": "0"
+            },
+            {
+                "attribute_code": "pit_to_pit",
+                "value": "59"
+            },
+            {
+                "attribute_code": "brand_new",
+                "value": "8159"
+            },
+            {
+                "attribute_code": "sleeve",
+                "value": "25"
+            },
+            {
+                "attribute_code": "url_key",
+                "value": "Grand Canyon National Park Single Stitch VNTG Stripe T-Shirt Made In USA-120503"
+            },
+            {
+                "attribute_code": "acetate",
+                "value": ""
+            },
+            {
+                "attribute_code": "acrylic",
+                "value": ""
+            },
+            {
+                "attribute_code": "chiffon",
+                "value": ""
+            },
+            {
+                "attribute_code": "coolmax",
+                "value": ""
+            },
+            {
+                "attribute_code": "cotton",
+                "value": ""
+            },
+            {
+                "attribute_code": "denim",
+                "value": ""
+            },
+            {
+                "attribute_code": "elastane",
+                "value": ""
+            },
+            {
+                "attribute_code": "elastic",
+                "value": ""
+            },
+            {
+                "attribute_code": "lastol",
+                "value": ""
+            },
+            {
+                "attribute_code": "leather",
+                "value": ""
+            },
+            {
+                "attribute_code": "lycra",
+                "value": ""
+            },
+            {
+                "attribute_code": "metallic",
+                "value": ""
+            },
+            {
+                "attribute_code": "modal",
+                "value": ""
+            },
+            {
+                "attribute_code": "nylon",
+                "value": ""
+            },
+            {
+                "attribute_code": "pima Cotton",
+                "value": ""
+            },
+            {
+                "attribute_code": "polyamida",
+                "value": ""
+            },
+            {
+                "attribute_code": "polyester",
+                "value": ""
+            },
+            {
+                "attribute_code": "ramie",
+                "value": ""
+            },
+            {
+                "attribute_code": "rayon",
+                "value": ""
+            },
+            {
+                "attribute_code": "silk",
+                "value": ""
+            },
+            {
+                "attribute_code": "spandex",
+                "value": ""
+            },
+            {
+                "attribute_code": "sport",
+                "value": ""
+            },
+            {
+                "attribute_code": "viscose",
+                "value": ""
+            },
+            {
+                "attribute_code": "woolen",
+                "value": ""
+            },
+            {
+                "attribute_code": "linen",
+                "value": ""
+            },
+            {
+                "attribute_code": "lyocell",
+                "value": ""
+            },
+            {
+                "attribute_code": "austres_fibers",
+                "value": ""
+            },
+            {
+                "attribute_code": "angora",
+                "value": ""
+            },
+            {
+                "attribute_code": "brand_size",
+                "value": "XXL"
+            },
+            {
+                "attribute_code": "size",
+                "value": "413"
+            },
+            {
+                "attribute_code": "condition",
+                "value": "309"
+            },
+            {
+                "attribute_code": "tag",
+                "value": "0"
+            },
+            {
+                "attribute_code": "tax_class_id",
+                "value": "2"
+            },
+            {
+                "attribute_code": "color1",
+                "value": "8004"
+            },
+            {
+                "attribute_code": "category_ids",
+                "value": [
+                    360,
+                    421,
+                    423,
+                    190,
+                    393,
+                    201
+                ]
+            },
+            {
+                "attribute_code": "msrp_display_actual_price_type",
+                "value": "4"
+            },
+            {
+                "attribute_code": "short_description",
+                "value": "With minor discoloration & small stain on front"
+            },
+            {
+                "attribute_code": "meta_title",
+                "value": "Grand Canyon National Park Single Stitch VNTG Stripe T-Shirt Made In USA online | Fashionrerun"
+            },
+            {
+                "attribute_code": "meta_description",
+                "value": "Shop second hand Grand Canyon National Park Single Stitch VNTG Stripe T-Shirt Made In USA by Others-Vintage online in UAE, Saudi, Philippines & Australia at low price. Buy more branded preloved products at fashionrerun"
+            },
+            {
+                "attribute_code": "report_cat1",
+                "value": "8198"
+            },
+            {
+                "attribute_code": "report_cat2",
+                "value": "8206"
+            },
+            {
+                "attribute_code": "report_cat3",
+                "value": "8222"
+            },
+            {
+                "attribute_code": "product_label",
+                "value": "8191"
+            },
+            {
+                "attribute_code": "cat_tshirt",
+                "value": "3219"
+            },
+            {
+                "attribute_code": "chest",
+                "value": "118"
+            }
+        ]
+    }
+}

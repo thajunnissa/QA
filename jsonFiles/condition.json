@@ -1,0 +1,26 @@
+[
+    {
+        "label": " ",
+        "value": ""
+    },
+    {
+        "label": "Fair",
+        "value": "412"
+    },
+    {
+        "label": "Good",
+        "value": "307"
+    },
+    {
+        "label": "Very Good",
+        "value": "308"
+    },
+    {
+        "label": "Excellent",
+        "value": "309"
+    },
+    {
+        "label": "Flawless",
+        "value": "310"
+    }
+]

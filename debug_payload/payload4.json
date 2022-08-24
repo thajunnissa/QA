@@ -1,0 +1,226 @@
+{
+    "product": {
+        "sku": "A0121516",
+        "name": "Mens Lee Dungarees Carpenter Denim Pants",
+        "attribute_set_id": "14",
+        "price": 70,
+        "visibility": 4,
+        "type_id": "simple",
+        "weight": 0.588,
+        "extension_attributes": {
+            "website_ids": [
+                1
+            ],
+            "stock_item": {
+                "qty": 1,
+                "is_in_stock": true
+            }
+        },
+        "custom_attributes": [
+            {
+                "attribute_code": "length",
+                "value": "103"
+            },
+            {
+                "attribute_code": "gift_message_available",
+                "value": "0"
+            },
+            {
+                "attribute_code": "pit_to_pit",
+                "value": ""
+            },
+            {
+                "attribute_code": "brand_new",
+                "value": "7519"
+            },
+            {
+                "attribute_code": "sleeve",
+                "value": ""
+            },
+            {
+                "attribute_code": "url_key",
+                "value": "Mens Lee Dungarees Carpenter Denim Pants-120516"
+            },
+            {
+                "attribute_code": "acetate",
+                "value": ""
+            },
+            {
+                "attribute_code": "acrylic",
+                "value": ""
+            },
+            {
+                "attribute_code": "chiffon",
+                "value": ""
+            },
+            {
+                "attribute_code": "coolmax",
+                "value": ""
+            },
+            {
+                "attribute_code": "cotton",
+                "value": "75"
+            },
+            {
+                "attribute_code": "denim",
+                "value": ""
+            },
+            {
+                "attribute_code": "elastane",
+                "value": ""
+            },
+            {
+                "attribute_code": "elastic",
+                "value": ""
+            },
+            {
+                "attribute_code": "lastol",
+                "value": ""
+            },
+            {
+                "attribute_code": "leather",
+                "value": ""
+            },
+            {
+                "attribute_code": "lycra",
+                "value": ""
+            },
+            {
+                "attribute_code": "metallic",
+                "value": ""
+            },
+            {
+                "attribute_code": "modal",
+                "value": ""
+            },
+            {
+                "attribute_code": "nylon",
+                "value": ""
+            },
+            {
+                "attribute_code": "pima Cotton",
+                "value": ""
+            },
+            {
+                "attribute_code": "polyamida",
+                "value": ""
+            },
+            {
+                "attribute_code": "polyester",
+                "value": "25"
+            },
+            {
+                "attribute_code": "ramie",
+                "value": ""
+            },
+            {
+                "attribute_code": "rayon",
+                "value": ""
+            },
+            {
+                "attribute_code": "silk",
+                "value": ""
+            },
+            {
+                "attribute_code": "spandex",
+                "value": ""
+            },
+            {
+                "attribute_code": "sport",
+                "value": ""
+            },
+            {
+                "attribute_code": "viscose",
+                "value": ""
+            },
+            {
+                "attribute_code": "woolen",
+                "value": ""
+            },
+            {
+                "attribute_code": "linen",
+                "value": ""
+            },
+            {
+                "attribute_code": "lyocell",
+                "value": ""
+            },
+            {
+                "attribute_code": "austres_fibers",
+                "value": ""
+            },
+            {
+                "attribute_code": "angora",
+                "value": ""
+            },
+            {
+                "attribute_code": "brand_size",
+                "value": "31 X 30"
+            },
+            {
+                "attribute_code": "size",
+                "value": "414"
+            },
+            {
+                "attribute_code": "condition",
+                "value": "308"
+            },
+            {
+                "attribute_code": "tag",
+                "value": "0"
+            },
+            {
+                "attribute_code": "tax_class_id",
+                "value": "2"
+            },
+            {
+                "attribute_code": "color1",
+                "value": "8004"
+            },
+            {
+                "attribute_code": "category_ids",
+                "value": [
+                    741,
+                    750,
+                    767
+                ]
+            },
+            {
+                "attribute_code": "msrp_display_actual_price_type",
+                "value": "4"
+            },
+            {
+                "attribute_code": "short_description",
+                "value": "With stain on right thigh"
+            },
+            {
+                "attribute_code": "meta_title",
+                "value": "Mens Lee Dungarees Carpenter Denim Pants online | Fashionrerun"
+            },
+            {
+                "attribute_code": "meta_description",
+                "value": "Shop second hand Mens Lee Dungarees Carpenter Denim Pants by Lee online in UAE, Saudi, Philippines & Australia at low price. Buy more branded preloved products at fashionrerun"
+            },
+            {
+                "attribute_code": "report_cat1",
+                "value": "1"
+            },
+            {
+                "attribute_code": "report_cat2",
+                "value": "8200"
+            },
+            {
+                "attribute_code": "report_cat3",
+                "value": "8213"
+            },
+            {
+                "attribute_code": "product_label",
+                "value": "8190"
+            },
+            {
+                "attribute_code": "waist",
+                "value": "78"
+            }
+        ]
+    }
+}

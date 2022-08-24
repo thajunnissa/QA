@@ -1,0 +1,56 @@
+[
+    {
+        "cid": 485,
+        "sid": 483,
+        "id": 184,
+        "name": "HoodiesSweatshirts"
+    },
+    {
+        "cid": 486,
+        "sid": 483,
+        "id": 184,
+        "name": "Jackets"
+    },
+    {
+        "cid": 655,
+        "sid": 483,
+        "id": 184,
+        "name": "Jeans"
+    },
+    {
+        "cid": 490,
+        "sid": 483,
+        "id": 184,
+        "name": "Jerseys"
+    },
+    {
+        "cid": 491,
+        "sid": 483,
+        "id": 184,
+        "name": "Pants"
+    },
+    {
+        "cid": 492,
+        "sid": 483,
+        "id": 184,
+        "name": "Shirts"
+    },
+    {
+        "cid": 494,
+        "sid": 483,
+        "id": 184,
+        "name": "Shorts"
+    },
+    {
+        "cid": 487,
+        "sid": 483,
+        "id": 184,
+        "name": "TShirts"
+    },
+    {
+        "cid": 663,
+        "sid": 483,
+        "id": 184,
+        "name": "Sweaters"
+    }
+]

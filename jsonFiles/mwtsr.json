@@ -1,0 +1,248 @@
+[
+    {
+        "cid": 611,
+        "sid": 394,
+        "id": 234,
+        "name": "ActiveWears"
+    },
+    {
+        "cid": 248,
+        "sid": 394,
+        "id": 234,
+        "name": "BlousesTops"
+    },
+    {
+        "cid": 262,
+        "sid": 394,
+        "id": 234,
+        "name": "Dresses"
+    },
+    {
+        "cid": 609,
+        "sid": 394,
+        "id": 234,
+        "name": "HoodiesSweatshirts"
+    },
+    {
+        "cid": 239,
+        "sid": 394,
+        "id": 234,
+        "name": "Jackets"
+    },
+    {
+        "cid": 610,
+        "sid": 394,
+        "id": 234,
+        "name": "Jeans"
+    },
+    {
+        "cid": 268,
+        "sid": 394,
+        "id": 234,
+        "name": "Jerseys"
+    },
+    {
+        "cid": 526,
+        "sid": 394,
+        "id": 234,
+        "name": "JumpsuitsRompers"
+    },
+    {
+        "cid": 457,
+        "sid": 394,
+        "id": 234,
+        "name": "Nightwears"
+    },
+    {
+        "cid": 272,
+        "sid": 394,
+        "id": 234,
+        "name": "Pants"
+    },
+    {
+        "cid": 287,
+        "sid": 394,
+        "id": 234,
+        "name": "Shorts"
+    },
+    {
+        "cid": 284,
+        "sid": 394,
+        "id": 234,
+        "name": "Skirts"
+    },
+    {
+        "cid": 235,
+        "sid": 394,
+        "id": 234,
+        "name": "Sweaters"
+    },
+    {
+        "cid": 291,
+        "sid": 394,
+        "id": 234,
+        "name": "Swimwears"
+    },
+    {
+        "cid": 245,
+        "sid": 394,
+        "id": 234,
+        "name": "TShirts"
+    },
+    {
+        "cid": 681,
+        "sid": 394,
+        "id": 234,
+        "name": "Scarf"
+    },
+    {
+        "cid": 449,
+        "sid": 251,
+        "id": 234,
+        "name": "HatsCaps"
+    },
+    {
+        "cid": 529,
+        "sid": 279,
+        "id": 234,
+        "name": "CasualShoes"
+    },
+    {
+        "cid": 517,
+        "sid": 279,
+        "id": 234,
+        "name": "SportsRunningShoes"
+    },
+    {
+        "cid": 612,
+        "sid": 393,
+        "id": 190,
+        "name": "ActiveWears"
+    },
+    {
+        "cid": 613,
+        "sid": 393,
+        "id": 190,
+        "name": "HoodiesSweatshirts"
+    },
+    {
+        "cid": 195,
+        "sid": 393,
+        "id": 190,
+        "name": "Jackets"
+    },
+    {
+        "cid": 614,
+        "sid": 393,
+        "id": 190,
+        "name": "Jeans"
+    },
+    {
+        "cid": 212,
+        "sid": 393,
+        "id": 190,
+        "name": "Jerseys"
+    },
+    {
+        "cid": 216,
+        "sid": 393,
+        "id": 190,
+        "name": "Pants"
+    },
+    {
+        "cid": 221,
+        "sid": 393,
+        "id": 190,
+        "name": "Shirts"
+    },
+    {
+        "cid": 228,
+        "sid": 393,
+        "id": 190,
+        "name": "Shorts"
+    },
+    {
+        "cid": 660,
+        "sid": 393,
+        "id": 190,
+        "name": "Sweaters"
+    },
+    {
+        "cid": 201,
+        "sid": 393,
+        "id": 190,
+        "name": "TShirts"
+    },
+    {
+        "cid": 451,
+        "sid": 205,
+        "id": 190,
+        "name": "HatsCaps"
+    },
+    {
+        "cid": 521,
+        "sid": 224,
+        "id": 190,
+        "name": "CasualShoes"
+    },
+    {
+        "cid": 522,
+        "sid": 224,
+        "id": 190,
+        "name": "SportsRunningShoes"
+    },
+    {
+        "cid": 188,
+        "sid": 416,
+        "id": 187,
+        "name": "Girls"
+    },
+    {
+        "cid": 189,
+        "sid": 416,
+        "id": 187,
+        "name": "Boys"
+    },
+    {
+        "cid": 765,
+        "sid": 750,
+        "id": 741,
+        "name": "BlousesTops"
+    },
+    {
+        "cid": 766,
+        "sid": 750,
+        "id": 741,
+        "name": "HoodiesSweatshirts"
+    },
+    {
+        "cid": 767,
+        "sid": 750,
+        "id": 741,
+        "name": "Jeans"
+    },
+    {
+        "cid": 768,
+        "sid": 750,
+        "id": 741,
+        "name": "Pants"
+    },
+    {
+        "cid": 769,
+        "sid": 750,
+        "id": 741,
+        "name": "Shorts"
+    },
+    {
+        "cid": 752,
+        "sid": 751,
+        "id": 741,
+        "name": "Hats"
+    },
+    {
+        "cid": 753,
+        "sid": 751,
+        "id": 741,
+        "name": "Bags"
+    }
+]

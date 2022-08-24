@@ -1,0 +1,62 @@
+[
+    {
+        "cid": 618,
+        "sid": 468,
+        "id": 181,
+        "name": "ActiveWears"
+    },
+    {
+        "cid": 619,
+        "sid": 468,
+        "id": 181,
+        "name": "HoodiesSweatshirts"
+    },
+    {
+        "cid": 459,
+        "sid": 468,
+        "id": 181,
+        "name": "Jackets"
+    },
+    {
+        "cid": 621,
+        "sid": 468,
+        "id": 181,
+        "name": "Jeans"
+    },
+    {
+        "cid": 463,
+        "sid": 468,
+        "id": 181,
+        "name": "Jerseys"
+    },
+    {
+        "cid": 464,
+        "sid": 468,
+        "id": 181,
+        "name": "Pants"
+    },
+    {
+        "cid": 465,
+        "sid": 468,
+        "id": 181,
+        "name": "Shirts"
+    },
+    {
+        "cid": 467,
+        "sid": 468,
+        "id": 181,
+        "name": "Shorts"
+    },
+    {
+        "cid": 460,
+        "sid": 468,
+        "id": 181,
+        "name": "TShirts"
+    },
+    {
+        "cid": 662,
+        "sid": 468,
+        "id": 181,
+        "name": "Sweaters"
+    }
+]
